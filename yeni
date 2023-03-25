@@ -1,0 +1,19 @@
+İlk olarak, kök düğüm oluşturulur ve dizi ilk elemanı olan 7, kök düğümün değeri olarak atanır.
+
+Ardından, dizi ikinci elemanı olan 5, kök düğümden küçük olduğu için kökün soluna eklenir.
+
+Dizi üçüncü elemanı olan 1, kökten küçük olduğu için sol alt ağaca eklenir.
+
+Dizi dördüncü elemanı olan 8, kökten büyük olduğu için kökün sağına eklenir.
+
+Dizi beşinci elemanı olan 3, kökten küçük olduğu için sol alt ağacın sağ tarafına eklenir.
+
+Dizi altıncı elemanı olan 6, kökten küçük olduğu için sol alt ağacın sağ tarafına eklenir.
+
+Dizi yedinci elemanı olan 0, kökten küçük olduğu için sol alt ağacın sol tarafına eklenir.
+
+Dizi sekizinci elemanı olan 9, kökten büyük olduğu için sağ alt ağaca eklenir.
+
+Dizi dokuzuncu elemanı olan 4, kökten küçük olduğu için sol alt ağacın sağ tarafına eklenir.
+
+Dizi onuncu elemanı olan 2, kökten küçük olduğu için sol alt ağacın sol tarafına eklenir.
